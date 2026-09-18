@@ -264,13 +264,13 @@ I created two plots from the experimental results.
 
 This plot shows how the execution time changes when the input size increases.
 
-![Time vs n](docs/plots/time_vs_n.png)
+![Time vs n](plots/time_vs_n.png)
 
 #### Recursion Depth vs. n
 
 This plot shows how the maximum recursion depth changes when the input size increases.
 
-![Recursion Depth vs n](docs/plots/recursion_depth_vs_n.png)
+![Recursion Depth vs n](plots/recursion_depth_vs_n.png)
 
 ## D. Discussion
 
@@ -300,23 +300,23 @@ During the project, I learned how to use recursion, measure execution time, meas
 
 ### Program Output
 
-![Program Output](docs/screenshots/Output.png)
+![Program Output](Output.png)
 
 ### Test Results
 
-![Test Results](docs/screenshots/test-results.png)
+![Test Results](test-results.png)
 
 ### Results
 
-![CSV Results](docs/screenshots/csv-results.png)
+![CSV Results](csv-results.png)
 
 ### Time vs. n
 
-![Time vs n](docs/plots/time_vs_n.png)
+![Time vs n](plots/time_vs_n.png)
 
 ### Recursion Depth vs. n
 
-![Recursion Depth vs n](docs/plots/recursion_depth_vs_n.png)
+![Recursion Depth vs n](plots/recursion_depth_vs_n.png)
 
 ## Project Structure
 
